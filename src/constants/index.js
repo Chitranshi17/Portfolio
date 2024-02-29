@@ -6,13 +6,13 @@ import {
     port_3d, jsp, chitchat, notes, react1,
     be,sql, mini, snl
   } from "../assets";
-  import ItalianPasta from "../assets/project/ItalianPasta.png"
-  import jimdo from "../assets/project/jimdo.png"
+  import ItalianPasta from "../assets/project/ItalianPasta.png"  
   import malichimp from "../assets/project/malichimp.png"
   import menzila from "../assets/project/menzila.png"
   import weather from "../assets/project/weather.png"
   import Quoto from "../assets/project/Q.png"
   import expense from "../assets/project/Expense.png"
+  import jimdo from "../assets/project/jimdo.png"
   import task from "../assets/project/Task.png"
   import cryptomania from "../assets/project/CryptoMania.png"
   import material from "../assets/tech/material.png"
